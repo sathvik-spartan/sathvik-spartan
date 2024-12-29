@@ -13,4 +13,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199226003192)
-[![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=flat&logo=epicgames&logoColor=white)](https://www.epicgames.com/519cbd5a54064e36b9e787a3fff27b4e/Sathvik-spartan/)
+[![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=flat&logo=epicgames&logoColor=white)](https://www.epicgames.com/519cbd5a54064e36b9e787a3fff27b4e)
