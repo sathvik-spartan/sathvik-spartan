@@ -6,9 +6,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan)
 
-<a href="https://github.com/<your-username>">
+<a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/<your-username>"
+    src="https://render.gitanimals.org/lines/sathvik-spartan"
     width="600"
     height="120"
   />
