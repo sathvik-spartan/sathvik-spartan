@@ -7,6 +7,12 @@
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan)
 
 <!---
-sathvik-spartan/sathvik-spartan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+sathvik-spartan/sathvik-s<a href="https://github.com/<your-username>">
+  <img
+    src="https://render.gitanimals.org/lines/<your-username>"
+    width="600"
+    height="120"
+  />
+</a>partan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
