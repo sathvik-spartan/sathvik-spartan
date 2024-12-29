@@ -7,3 +7,7 @@
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan)
 
 <a href="https://app.daily.dev/sathvikspartan"><img src="https://api.daily.dev/devcards/v2/s5JXi2w0IdvXn2IY2aCoz.png?type=default&r=6k3" width="356" alt="Sathvik Reddy's Dev Card"/></a>
+
+# Welcome to My GitHub Profile!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy)
