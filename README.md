@@ -32,11 +32,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 
-### 🔧 Other Frontend Tools
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
 
 ### 🤖 AI , ML and DL
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
