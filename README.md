@@ -38,7 +38,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### 🤖 AI , ML and DL
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
