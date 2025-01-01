@@ -1,4 +1,4 @@
-# Welcome 😄
+# Welcome 😁
 
 - 👋 Hi, I’m @sathvik-spartan 
 - 👀 I’m interested in Cybersecurity stuff and coding
