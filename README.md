@@ -1,6 +1,6 @@
 # Welcome 😁
 
-- 👋 Hi, I’m @sathvik-spartan 
+- 👋 Hi, I’m Sathvik Reddy
 - 👀 I’m interested in Cybersecurity stuff and coding
 - 🌱 I’m currently learning DSA , Full Stack Web Development 
 -  I’m looking to collaborate on all techie stuff
