@@ -11,6 +11,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy)
+[![Kaggle](https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png)](https://www.kaggle.com/sathvikspartan)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199226003192)
 # Contact me:
 📧 [Gmail](mailto:sathvikspartan@gmail.com)
