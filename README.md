@@ -11,7 +11,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy)
-[![Forage Badge](https://img.shields.io/badge/Forage-Profile-blue?style=flat-square&logo=forage)](https://www.theforage.com/profile/fJmpoxZhf6CGj5JHw)
+[![Forage](https://img.shields.io/badge/Forage-Profile-blue?style=flat-square&logo=forage)](https://www.theforage.com/profile/fJmpoxZhf6CGj5JHw)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sathvikspartan)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199226003192)
 # Contact me:
