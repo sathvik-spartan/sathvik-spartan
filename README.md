@@ -1,4 +1,4 @@
-# Welcome 😁
+# Hola Amigo 😁
 
 - 👋 Hi, I’m Sathvik Reddy
 - 👀 I’m interested in Cybersecurity stuff.
