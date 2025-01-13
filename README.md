@@ -6,6 +6,7 @@
 - 🌱 I’m currently updating myself to the latest technology (definitely not a cyborg 😅).
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan)
+- I'm a Liztomaniac 🤌
 
 <a href="https://app.daily.dev/sathvikspartan"><img src="https://api.daily.dev/devcards/v2/s5JXi2w0IdvXn2IY2aCoz.png?type=default&r=6k3" width="356" alt="Sathvik Reddy's Dev Card"/></a>
 
