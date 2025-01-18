@@ -3,7 +3,8 @@
 - 👋 Hi, I’m Sathvik Reddy
 - 👀 I’m interested in Cybersecurity stuff.
 - 🫡 Open Source Project Contributor.
-- 🌱 I’m currently updating myself to the latest technology (definitely not a cyborg 😅).
+- 🌱 I’m currently updating myself to the latest technology .
+- I love to learn new things everyday.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan)
 - I'm a Liztomaniac 🤌
