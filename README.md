@@ -17,7 +17,8 @@
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sathvikspartan) 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199226003192) 
-[![Google for Developers Profile](https://img.shields.io/badge/GoogleDevelopers-Profile-blue?logo=google)](https://developers.google.com/profile/u/sathvikspartan)
+[![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/sathvikspartan)
+
 
 
 # Contact me:
