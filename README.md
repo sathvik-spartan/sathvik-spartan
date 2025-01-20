@@ -12,7 +12,7 @@
 <a href="https://app.daily.dev/sathvikspartan"><img src="https://api.daily.dev/devcards/v2/s5JXi2w0IdvXn2IY2aCoz.png?type=default&r=6k3" width="356" alt="Sathvik Reddy's Dev Card"/></a>
 
 
-### Connect with me:
+# Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sathvikspartan) 
