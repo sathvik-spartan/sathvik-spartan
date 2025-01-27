@@ -60,4 +60,5 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
 
