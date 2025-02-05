@@ -41,7 +41,7 @@
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 
 
-### 🤖 AI , ML and DL
+### 🤖 AI 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
