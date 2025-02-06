@@ -9,8 +9,6 @@
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan).
 - 🎧 I'm a Liztomaniac.
 
-  <a href="https://app.daily.dev/sathvikspartan"><img src="https://api.daily.dev/devcards/v2/s5JXi2w0IdvXn2IY2aCoz.png?type=default&r=ohp" width="356" alt="Sathvik Reddy's Dev Card"/></a> 
-
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
 [![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
@@ -19,10 +17,10 @@
 [![Google Developers](https://img.shields.io/badge/Google%20for%20Developers-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/sathvikspartan)
 
 
-
 # Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sathvikspartan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
+
 
 # 🛠️ Tech Stack
 
@@ -34,6 +32,28 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+### 🔧 Backend Tech Stack
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)  
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)  
+
 
 ### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
