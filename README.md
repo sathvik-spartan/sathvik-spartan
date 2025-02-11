@@ -1,13 +1,13 @@
 # Greetings, Traveller !
 
-- 👋 Hi, I’m Sathvik Reddy.
-- 👀 I’m interested in Cybersecurity stuff.
+- 👋 Hi, I’m Sathvik.
+- 👀 I’m interested in Cybersecurity and anything related to it.
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology .
 - 🧠 I love to learn new things everyday.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan).
-- 🎧 I'm a Liztomaniac.
+- 🤠 I'm a Liztomaniac and an aspiring historian.
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
