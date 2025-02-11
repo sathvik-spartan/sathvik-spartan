@@ -11,7 +11,7 @@
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
-[![Xbox Badge](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
+[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sathvikspartan)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199226003192)
 [![Google Developers](https://img.shields.io/badge/Google%20for%20Developers-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/sathvikspartan)
