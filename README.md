@@ -50,11 +50,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-### ⚙️ DevOps & Tools
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-
 
 ### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
