@@ -83,5 +83,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sathvik-spartan&theme=algolia&show_icons=true)](https://github.com/sathvik-spartan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/langs/?username=sathvik-spartan&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=tokyonight)
 
