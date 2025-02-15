@@ -7,8 +7,8 @@
 - 🧠 I love to learn new things everyday.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan).
-- 🤠 I'm a Liztomaniac and an aspiring historian.
-- 😎 I'm also a multilingual.
+- 🤠 I'm a Liztomaniac and I have keen interest in history.
+- 😎 Multilingual.
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
