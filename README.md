@@ -81,3 +81,5 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=sathvik-spartan&theme=algolia&show_icons=true)](https://github.com/sathvik-spartan)
+
