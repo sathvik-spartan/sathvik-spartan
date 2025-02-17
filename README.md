@@ -1,4 +1,4 @@
-# Greetings, Traveller !
+# Greetings, Developer !
 
 - 👋 Hi, I’m Sathvik.
 - 👀 I’m interested in Cybersecurity and anything related to it.
