@@ -1,6 +1,6 @@
 # Greetings, Developer !
 
-- 👋 Hi, I’m Sathvik.
+- 👋 Hola, I’m Sathvik.
 - 👀 I’m interested in Cybersecurity and anything related to it.
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology .
