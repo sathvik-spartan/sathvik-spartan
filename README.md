@@ -10,6 +10,11 @@
 - 🤠 I'm a Liztomaniac and I have keen interest in history.
 - 😎 Multilingual.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="b-sathvik-reddy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">B.Sathvik Reddy</a></div>
+              
+
 ## Stack Overflow
 [![Sathvik Reddy's Stack Overflow](https://stackoverflow.com/users/flair/27864793.png)](https://stackoverflow.com/users/27864793/sathvik-reddy) 
 
