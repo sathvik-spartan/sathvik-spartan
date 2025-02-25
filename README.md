@@ -8,12 +8,7 @@
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan).
 - 🤠 I'm a Liztomaniac and I have keen interest in history.
-- 😎 Multilingual.
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-
-              
+- 😎 Multilingual.         
 
 ## Stack Overflow
 [![Sathvik Reddy's Stack Overflow](https://stackoverflow.com/users/flair/27864793.png)](https://stackoverflow.com/users/27864793/sathvik-reddy) 
