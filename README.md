@@ -1,6 +1,6 @@
 # Greetings, Developer !
 
-- 👋 Hola, I’m <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="b-sathvik-reddy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">B.Sathvik Reddy</a></div>
+- 👋 Hola, I’m<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="b-sathvik-reddy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">B.Sathvik Reddy</a></div>
 - 👀 I’m interested in Cybersecurity and anything related to it.
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology .
