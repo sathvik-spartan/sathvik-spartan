@@ -10,6 +10,8 @@
 - 🤠 I'm a Liztomaniac and I have keen interest in history.
 - 😎 Multilingual.         
 
+<a href="https://app.daily.dev/sathvikspartan"><img src="https://api.daily.dev/devcards/v2/s5JXi2w0IdvXn2IY2aCoz.png?type=default&r=bc2" width="356" alt="Sathvik Reddy's Dev Card"/></a>
+
 ## Stack Overflow
 [![Sathvik Reddy's Stack Overflow](https://stackoverflow.com/users/flair/27864793.png)](https://stackoverflow.com/users/27864793/sathvik-reddy) 
 
