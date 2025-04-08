@@ -88,6 +88,6 @@
 
 ### Profile Views
 
-<img src="https://count.getloli.com/get/@sathvik-spartan.github?theme=rule34" alt="Profile Views" />
+<img src="https://count.getloli.com/get/@sathvik-spartan.github?theme=github" alt="Profile Views" />
 
 
