@@ -84,6 +84,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sathvik-spartan&theme=synthwave&show_icons=true)](https://github.com/sathvik-spartan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=synthwave&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=synthwave&hide_progress=false)    
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/sathvik-spartan.github/visits)
 
 
