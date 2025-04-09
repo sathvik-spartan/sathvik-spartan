@@ -11,7 +11,7 @@
 - 😎 Multilingual.
 - MOST OF THE REPOSITORIES I'VE FORKED ARE STUDY RESOURCES THUS ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
 
-<a href="https://app.daily.dev/sathvikspartan"><img src="https://api.daily.dev/devcards/v2/s5JXi2w0IdvXn2IY2aCoz.png?type=default&r=bc2" width="356" alt="Sathvik Reddy's Dev Card"/></a>
+<a href="https://app.daily.dev/sathvikspartan"><img src="https://api.daily.dev/devcards/v2/s5JXi2w0IdvXn2IY2aCoz.png?type=default&r=6so" width="356" alt="Sathvik Reddy's Dev Card"/></a>
 
 ## Stack Overflow
 [![Sathvik Reddy's Stack Overflow](https://stackoverflow.com/users/flair/27864793.png)](https://stackoverflow.com/users/27864793/sathvik-reddy) 
