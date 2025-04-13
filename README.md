@@ -11,6 +11,10 @@
 - 😎 Multilingual.
 - MOST OF THE REPOSITORIES I'VE FORKED ARE STUDY RESOURCES THUS ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/sathvik-spartan?pet-id=1" width="1000" height="120"/>
+</a>
+
 ## Stack Overflow
 [![Sathvik Reddy's Stack Overflow](https://stackoverflow.com/users/flair/27864793.png)](https://stackoverflow.com/users/27864793/sathvik-reddy) 
 
@@ -83,9 +87,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sathvik-spartan&theme=synthwave&show_icons=true)](https://github.com/sathvik-spartan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=synthwave&hide_progress=false)     
-
-### Profile Views
-
-<img src="https://count.getloli.com/get/@sathvik-spartan.github?theme=github" alt="Profile Views" />
 
 
