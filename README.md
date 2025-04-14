@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan).
 - 🤠 I'm a Liztomaniac and I have keen interest in history.
 - 😎 Multilingual.
-- MOST OF THE REPOSITORIES I'VE FORKED ARE STUDY RESOURCES THUS ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
+- MOST OF THE REPOSITORIES I'VE "FORKED" ARE STUDY RESOURCES THUS ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/sathvik-spartan?pet-id=1" width="1000" height="120"/>
