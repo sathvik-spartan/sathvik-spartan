@@ -15,9 +15,6 @@
   <img src="https://render.gitanimals.org/lines/sathvik-spartan?pet-id=1" width="1000" height="120"/>
 </a>
 
-## Stack Overflow
-[![Sathvik Reddy's Stack Overflow](https://stackoverflow.com/users/flair/27864793.png)](https://stackoverflow.com/users/27864793/sathvik-reddy) 
-
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
