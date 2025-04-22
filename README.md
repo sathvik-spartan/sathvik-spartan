@@ -11,10 +11,6 @@
 - 😎 Multilingual.
 - MOST OF THE REPOSITORIES I'VE "FORKED" ARE STUDY RESOURCES THUS ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/sathvik-spartan?pet-id=1" width="1000" height="120"/>
-</a>
-
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
