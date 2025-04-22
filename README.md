@@ -1,15 +1,24 @@
-# WELCOME FOLKS !!!
+   # WELCOME FOLKS !!!
 
-- 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">B.Sathvik Reddy</a>
+- 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - 👀 I’m interested in Cybersecurity and anything related to it.
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology .
 - 🧠 I love to learn new things everyday.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
-- ⚡ Fun fact: I'm a gamer (Steam ID : sathvikspartan).
-- 🤠 I'm a Liztomaniac and I have keen interest in history.
-- 😎 Multilingual.
-- MOST OF THE REPOSITORIES I'VE "FORKED" ARE STUDY RESOURCES THUS ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
+- ⚡ Fun fact: I'm a gamer (Steam username : sathvikspartan).
+- 🤠 I'm a Liztomaniac (I'll probably keep listening to my lo-fi playlist most of the time) and I have keen interest in ancient history.
+- 😎 I'm a Multilingual.
+- ❤️‍🔥 MOST OF THE REPOSITORIES I'VE "FORKED" ARE STUDY RESOURCES THUS ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
+
+  ## 🎮 Hobbies & Interests
+- When I'm not coding, I'm probably gaming (currently obsessed with **Metal Gear Solid V : The Phantom Pain** and **HALO : MCC**) or listening to music.
+- I love hiking and capturing landscapes with my camera.
+
+## 🎵 Music Playlist
+Check out my favorite playlist on [Spotify](https://open.spotify.com/playlist/0evSekCANfuytkxaYKoj4n?si=rMbjbS7WScuZIBaFxl1ZaQ)       
+
+![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
@@ -80,5 +89,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sathvik-spartan&theme=synthwave&show_icons=true)](https://github.com/sathvik-spartan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=synthwave&hide_progress=false)     
+
+
+
 
 
