@@ -15,8 +15,7 @@
 - When I'm not coding, I'm probably gaming (currently obsessed with **Metal Gear Solid V : The Phantom Pain** and **HALO : MCC**) or listening to music.
 - I love hiking and capturing landscapes with my camera.
 
-## 🎵 Music Playlist
-Check out my favorite playlist on [Spotify](https://open.spotify.com/playlist/0evSekCANfuytkxaYKoj4n?si=rMbjbS7WScuZIBaFxl1ZaQ)       
+## Wisdom   
 
 ![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
 
