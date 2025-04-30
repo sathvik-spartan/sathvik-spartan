@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I'm a gamer (Steam username : sathvikspartan).
 - 🤠 I'm a Liztomaniac (I'll probably keep listening to my lo-fi playlist most of the time) and I have keen interest in ancient history.
 - 😎 I'm a Multilingual.
-- ❤️‍🔥 MOST OF THE REPOSITORIES I'VE "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
+- ❤️‍🔥 SOME OF THE REPOSITORIES I'VE CREATED AND "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
 
   ## 🎮 Hobbies & Interests
 - When I'm not coding, I'm probably gaming (currently obsessed with **Metal Gear Solid V : The Phantom Pain** and **HALO : MCC**) or listening to music.
