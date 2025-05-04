@@ -12,7 +12,7 @@
 - ❤️‍🔥 SOME OF THE REPOSITORIES I'VE CREATED AND "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
 
   ## 🎮 Hobbies & Interests
-- When I'm not coding, I'm probably gaming (currently obsessed with **Metal Gear Solid V : The Phantom Pain** and **HALO : MCC**) or listening to music.
+- When I'm not coding, I'm probably vibing to music.
 - I love hiking and capturing landscapes with my camera.
 
 ## Wisdom   
