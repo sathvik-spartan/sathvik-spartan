@@ -3,7 +3,7 @@
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - 👀 I’m interested in Cybersecurity and anything related to it.
 - 🫡 Open Source Project Contributor.
-- 🌱 I’m currently updating myself to the latest technology .
+- 🌱 I’m currently updating myself to the latest technology and also working on myself to overcome "Performance Anxiety".
 - 🧠 I love to learn new things everyday.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
 - ⚡ Fun fact: I'm a gamer (Steam username : sathvikspartan).
