@@ -11,7 +11,7 @@
 - 😎 I'm a Multilingual.
 - ❤️‍🔥 SOME OF THE REPOSITORIES I'VE CREATED AND "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
 
-  ## 🎮 Hobbies & Interests
+## 🎮 Hobbies & Interests
 - When I'm not coding, I'm probably be reading FreeCodeCamp blogs.
 - I love hiking , capturing landscapes with my camera and chasing horizons on long rides.
 
