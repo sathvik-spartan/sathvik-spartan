@@ -5,6 +5,7 @@
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology and also working on myself to overcome "Performance Anxiety".
 - 🧠 I love to learn new things everyday.
+- 🗿 Technophile 
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
 - ⚡ Fun fact: I'm a gamer (Steam username : sathvikspartan).
 - 🤠 I'm a Liztomaniac (I'll probably keep listening to my "Chill" playlist most of the time) and I have keen interest in Web Design and Development and API testing.
