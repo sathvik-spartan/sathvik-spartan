@@ -1,7 +1,7 @@
    # WELCOME DEVELOPERS !
 
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
-- 👀 I’m interested in Cybersecurity and anything related to it.
+- 👀 I’m interested in Cybersecurity and i aspire to become a SRE.
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology and also working on myself to overcome "Performance Anxiety".
 - 🧠 I love to learn new things everyday.
