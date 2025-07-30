@@ -13,7 +13,7 @@
 - ❤️‍🔥 SOME OF THE REPOSITORIES I'VE CREATED AND "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY.
 
 ## 🎮 Hobbies & Interests
-- When I'm not coding, I'm probably be reading FreeCodeCamp blogs.
+- When I'm not coding, I'll probably be reading FreeCodeCamp Articles and Handbooks. (It's Nerdy Tiiiime !!!)
 - I love hiking , capturing landscapes with my camera and chasing horizons on long rides.
 
 ## ⚡ Cybernated Wisdom !!!    
