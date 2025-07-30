@@ -1,5 +1,10 @@
    # WELCOME DEVELOPERS !
 
+   
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/> Yes, This is my profile. (IK it's wild)
+
+## “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - 👀 I’m interested in exploring QA Testing , Automation Testing, and i aspire to become a SRE.
 - 🫡 Open Source Project Contributor.
@@ -105,6 +110,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=sathvik-spartan&theme=synthwave&show_icons=true)](https://github.com/sathvik-spartan)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=synthwave&hide_progress=false)     
+
+## 🐍 Watch my contribution graph get eaten by a snake
+
+![GitHub Snake](https://raw.githubusercontent.com/sathvik-spartan/sathvik-spartan/output/github-contribution-grid-snake.svg)
 
 
 
