@@ -1,11 +1,11 @@
    # WELCOME DEVELOPERS !
 
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
-- 👀 I’m interested in Cybersecurity and i aspire to become a SRE.
+- 👀 I’m interested in exploring QA Testing , Automation Testing, and i aspire to become a SRE.
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology and also working on myself to overcome "Performance Anxiety".
 - 🧠 I love to learn new things everyday.
-- 🗿 Technophile 
+- 🗿 I'm a Technophile.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
 - ⚡ Fun fact: I'm a gamer (Steam username : sathvikspartan).
 - 🤠 I'm a Liztomaniac (I'll probably keep listening to my "Chill" playlist most of the time) and I have keen interest in Web Design and Development and API testing.
