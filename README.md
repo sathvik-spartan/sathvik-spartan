@@ -7,14 +7,19 @@
 - 🧠 I love to learn new things everyday.
 - 🗿 I'm a Technophile.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
-- ⚡ Fun fact: I'm a gamer (Steam username : sathvikspartan).
-- 🤠 I'm a Liztomaniac (I'll probably keep listening to my "Chill" playlist most of the time) and I have keen interest in Web Design and Development and API testing.
-- 😎 I'm a Multilingual.
-- ❤️‍🔥 SOME OF THE REPOSITORIES I'VE CREATED AND "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY.
 
-## 🎮 Hobbies & Interests
-- When I'm not coding, I'll probably be reading FreeCodeCamp Articles and Handbooks. (It's Nerdy Tiiiime !!!)
-- I love hiking , capturing landscapes with my camera and chasing horizons on long rides.
+## 🤝 Giving Back
+
+> Some of my repositories — both created and forked — serve as **educational resources**  
+> THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY
+
+## 🎮 Beyond the Code
+
+- 📚 Reading FreeCodeCamp articles & developer handbooks  
+- 🏞️ Hiking, long rides & landscape photography  
+- 🎧 Liztomaniac — mostly chill/lo-fi   
+- 🎮 Gaming (Steam: `sathvikspartan`)  
+- 🗣️ Multilingual & fascinated by different cultures
 
 ## ⚡ Cybernated Wisdom !!!    
 
