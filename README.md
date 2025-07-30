@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I'm a gamer (Steam username : sathvikspartan).
 - 🤠 I'm a Liztomaniac (I'll probably keep listening to my "Chill" playlist most of the time) and I have keen interest in Web Design and Development and API testing.
 - 😎 I'm a Multilingual.
-- ❤️‍🔥 SOME OF THE REPOSITORIES I'VE CREATED AND "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY 😊.
+- ❤️‍🔥 SOME OF THE REPOSITORIES I'VE CREATED AND "FORKED" ARE STUDY RESOURCES. THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY.
 
 ## 🎮 Hobbies & Interests
 - When I'm not coding, I'm probably be reading FreeCodeCamp blogs.
@@ -25,7 +25,7 @@
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sathvikspartan)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199226003192)
-[![Google Developers](https://img.shields.io/badge/Google%20for%20Developers-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/sathvikspartan)
+[![Google for Developers](https://img.shields.io/badge/Google%20for%20Developers-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/sathvikspartan)
 
 
 # Contact me:
