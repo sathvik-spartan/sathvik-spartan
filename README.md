@@ -16,7 +16,7 @@
 - When I'm not coding, I'm probably be reading FreeCodeCamp blogs.
 - I love hiking , capturing landscapes with my camera and chasing horizons on long rides.
 
-## Electric Wisdom !!!    
+## ⚡ Cybernated Wisdom !!!    
 
 ![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
 
