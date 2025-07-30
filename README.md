@@ -1,9 +1,7 @@
-   # WELCOME DEVELOPERS !
 
-   
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/> Yes, This is my profile. (IK it's wild)
+   <img width="100%" height="863" alt="Welcome Developers !!!" src="https://github.com/user-attachments/assets/4616504b-bcbf-4109-81a6-2673f4ba4999" />
 
-## “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+## <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/> Yes, This is my profile. (IK it's wild)
 
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - 👀 I’m interested in exploring QA Testing , Automation Testing, and i aspire to become a SRE.
