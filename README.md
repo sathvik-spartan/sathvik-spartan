@@ -76,7 +76,6 @@
 
 
 ### 🤖 AI 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
@@ -86,7 +85,8 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFAE00?logo=huggingface&logoColor=black)
 
-### 🦾 Other Languages 
+### 🦾 Programming Languages 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
