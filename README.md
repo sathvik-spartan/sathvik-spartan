@@ -4,7 +4,7 @@
 ## <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/> Yes, This is my profile. (IK it's wild)
 
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
-- 👀 I’m interested in exploring QA Testing , Automation Testing, and i aspire to be a Site Reliability Engineer.
+- 👀 I’m interested in exploring Cybersecurity (red, blue and purple teams), and i aspire to be a better human.
 - 🫡 Open Source Project Contributor.
 - 🌱 I’m currently updating myself to the latest technology and also working on my ability to overcome "Performance Anxiety".
 - 🧠 I love to learn new things everyday.
