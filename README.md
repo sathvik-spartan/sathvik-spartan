@@ -6,7 +6,7 @@
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - 👀 I’m interested in exploring Cybersecurity (red, blue and purple teams), and i aspire to be a better human.
 - 🫡 Open Source Project Contributor.
-- 🌱 I’m currently updating myself to the latest technology and also working on my ability to overcome "Performance Anxiety".
+- 🌱 I’m currently updating myself to the latest technology and also working on the ability to overcome "Performance Anxiety".
 - 🧠 I love to learn new things everyday.
 - 🗿 I'm a Technophile.
 - 📫 How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
