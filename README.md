@@ -1,6 +1,8 @@
 
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/1b93af47-5a33-4f18-bca6-4d86bc065759" />
 
+----
+
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - 👀 I’m interested in exploring Cybersecurity (red, blue and purple teams), and i aspire to be a better human.
 - 🫡 Open Source Project Contributor.
