@@ -1,7 +1,5 @@
 
-   <img width="100%" height="863" alt="Welcome Developers !!!" src="https://github.com/user-attachments/assets/4616504b-bcbf-4109-81a6-2673f4ba4999" />
-
-## <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="200"/> Yes, This is my profile. (IK it's wild)
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/1b93af47-5a33-4f18-bca6-4d86bc065759" />
 
 - 👋 Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - 👀 I’m interested in exploring Cybersecurity (red, blue and purple teams), and i aspire to be a better human.
