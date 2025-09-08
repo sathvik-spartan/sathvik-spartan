@@ -18,7 +18,7 @@
 
 ## 🎮 Beyond the Code
 
-- 📚 Reading FreeCodeCamp articles & developer handbooks  
+- 📚 Reading FreeCodeCamp articles , developer handbooks and dev blogs  
 - 🏞️ Hiking, long rides & landscape photography  
 - 🎧 Liztomaniac — mostly chill/lo-fi   
 - 🎮 Gaming (Steam: `sathvikspartan`)  
