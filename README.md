@@ -111,7 +111,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=synthwave&hide_progress=false)     
 
-## 🐍 Watch my contribution graph get eaten by a snake
+## Watch my contribution graph get eaten by a snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/sathvik-spartan/sathvik-spartan/output/github-contribution-grid-snake.svg)
 
