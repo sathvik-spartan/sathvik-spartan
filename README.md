@@ -21,7 +21,7 @@
 - 📚 Reading FreeCodeCamp articles , developer handbooks and dev blogs  
 - 🏞️ Hiking, long rides & landscape photography  
 - 🎧 Liztomaniac — mostly chill/lo-fi   
-- 🎮 Gaming (Steam: `sathvikspartan`)  
+- 🕹️ I'm a casual gamer (Steam: `sathvikspartan`)  
 - 🗣️ Multilingual & fascinated by different cultures
 
 ## ⚡ Cybernated Wisdom !!!    
