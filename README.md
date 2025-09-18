@@ -106,10 +106,6 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
-# 📈 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=sathvik-spartan&theme=synthwave&show_icons=true)](https://github.com/sathvik-spartan)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sathvik-spartan&theme=synthwave&hide_progress=false)     
 
 ## Watch my contribution graph get eaten by a snake
 
