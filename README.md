@@ -84,10 +84,12 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFAE00?logo=huggingface&logoColor=black)
 
-### Scripting and Programming Languages 
+### Familiar Scripting and Programming Languages 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Batch Script](https://img.shields.io/badge/-Batch_Script-4EAA25?logo=windows&logoColor=white)
 ![CMD](https://img.shields.io/badge/-CMD-000000?logo=commandprompt&logoColor=white)
 
