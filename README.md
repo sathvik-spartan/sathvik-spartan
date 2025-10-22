@@ -11,9 +11,9 @@
 - I design and develop websites as a hobby.
 - How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
 
-## Giving Back
+## Enriching the Coder-Hood    
 
-> Note that some of my repositories — both created and forked — serve as **educational resources**  
+> Note that some of my repositories — both created and forked — serve as **educational resources**.  
 > THUS, ACTING AS A HELPING HAND TOWARDS THE COMMUNITY
 
 ## Beyond the Code
