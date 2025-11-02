@@ -9,7 +9,7 @@
 - I’m currently updating myself to the latest technology and also working on the ability to overcome "Performance Anxiety".
 - I love to solve real world problems on a regular basis.
 - I design and develop websites as a hobby.
-- How to reach me : sathvikspartan@gmail.com and www.linkedin.com/in/b-sathvik-reddy.
+- How to reach me : [Gmail](sathvikspartan@gmail.com) and [Linkedin](www.linkedin.com/in/b-sathvik-reddy).
 
 ## Enriching the Community    
 
