@@ -21,8 +21,8 @@
 - Reading FreeCodeCamp articles , developer handbooks and dev blogs    
 - Hiking, long rides & landscape photography    
 - Liztomaniac — mostly Rock, Metal and Pop       
-- I'm a casual gamer (Steam: `sathvikspartan`)    
-- I'm a multilingual & i'm also fascinated by different cultures     
+- I'm a casual gamer (I prefer single player action adventure games)    
+- I'm a multilingual & i'm also fascinated by various cultures across the globe     
 
 ## ⚡ Cybernated Wisdom !!!    
 
