@@ -87,11 +87,11 @@
 ### Familiar Scripting and Programming Languages 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Batch Script](https://img.shields.io/badge/-Batch_Script-4EAA25?logo=windows&logoColor=white)
 ![CMD](https://img.shields.io/badge/-CMD-000000?logo=commandprompt&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
 
 ### Miscellaneous     
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
