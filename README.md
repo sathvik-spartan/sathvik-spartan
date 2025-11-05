@@ -92,6 +92,7 @@
 ![Batch Script](https://img.shields.io/badge/-Batch_Script-4EAA25?logo=windows&logoColor=white)
 ![CMD](https://img.shields.io/badge/-CMD-000000?logo=commandprompt&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-000000?logo=microchip&logoColor=white)
 
 ### Miscellaneous     
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
