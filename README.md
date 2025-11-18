@@ -26,7 +26,7 @@
 
 ## ⚡ Cybernated Wisdom !!!    
 
-![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
+![Here's some Wisdom!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
 
 # Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
