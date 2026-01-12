@@ -6,7 +6,7 @@
 - Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - I’m interested in exploring Cybersecurity (red, blue and purple teams), and i aspire to be a better contributor towards the tech community.
 - Open Source Project Contributor.
-- I’m currently updating myself to the latest technology and also working on the ability to overcome "Performance Anxiety".
+- I’m currently updating my skills to the latest technological advancements and also working on the ability to overcome "Performance Anxiety".
 - I love to solve real world problems on a regular basis.
 - I design and develop websites as a hobby.
 - How to reach me : [Gmail](sathvikspartan@gmail.com) and [Linkedin](https://www.linkedin.com/in/b-sathvik-reddy/).
@@ -46,7 +46,8 @@
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
