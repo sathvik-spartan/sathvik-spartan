@@ -24,7 +24,7 @@
 - I'm a casual gamer (I prefer single player action adventure games)    
 - I'm a multilingual & i'm also fascinated by various cultures across the globe     
 
-## ⚡ Cybernated Wisdom !!!    
+## Cybernated Wisdom !!!    
 
 ![Here's some Wisdom!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
 
