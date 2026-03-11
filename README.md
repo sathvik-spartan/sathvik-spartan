@@ -21,7 +21,7 @@
 - Reading FreeCodeCamp articles , developer handbooks and dev blogs    
 - Hiking, long rides & landscape photography    
 - Liztomaniac — mostly Rock, Metal and Pop       
-- I'm a casual gamer (I prefer single player action adventure games)    
+- I'm a casual gamer (Check out my steam acc)    
 - I'm a multilingual & i'm also fascinated by various cultures across the globe     
 
 ## Cybernated Wisdom !!!    
