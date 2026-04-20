@@ -24,7 +24,7 @@
 - I'm a casual gamer (Check out my steam acc)    
 - I'm a multilingual & i'm also fascinated by various cultures across the globe     
 
-## Cybernated Wisdom !!!    
+## Socrates never said these !!!    
 
 ![Here's some Wisdom!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
 
