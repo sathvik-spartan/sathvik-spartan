@@ -7,7 +7,7 @@
 
 - Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
 - Open Source Contributor.
-- Check out my projects, you will.
+- Check out my projects, hope you'll find them interesting.
 - I love to solve real world problems on a regular basis.
 - I design and develop websites as a hobby.
 - How to reach me : [Gmail](sathvikspartan@gmail.com) and [Linkedin](https://www.linkedin.com/in/b-sathvik-reddy/).
