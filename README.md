@@ -4,9 +4,8 @@
 ----
 
 - Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik Reddy</a>
-- I’m interested in exploring Cybersecurity (red, blue and purple teams), and i aspire to be a better contributor towards the tech community.
-- Open Source Project Contributor.
-- I’m currently updating my skills to the latest technological advancements and also working on the ability to overcome "Performance Anxiety".
+- Open Source Contributor.
+- Check out my projects, you will.
 - I love to solve real world problems on a regular basis.
 - I design and develop websites as a hobby.
 - How to reach me : [Gmail](sathvikspartan@gmail.com) and [Linkedin](https://www.linkedin.com/in/b-sathvik-reddy/).
