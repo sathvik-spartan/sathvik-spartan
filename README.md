@@ -28,7 +28,7 @@
 
 ![Here's some Wisdom!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)     
 
-# Connect with me:
+# Connections :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)](https://www.xbox.com/en-IN/play/user/Sathvik1849)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/sathvikspartan)
@@ -36,7 +36,7 @@
 [![Google for Developers](https://img.shields.io/badge/Google%20for%20Developers-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/profile/u/sathvikspartan)
 
 
-# Contact me:
+# Queries? I've got you:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sathvikspartan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-sathvik-reddy) 
 
@@ -69,11 +69,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
-
-### UI/UX Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
-
 ### Familiar Scripting and Programming Languages 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -96,7 +91,7 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 
-## Watch my contribution graph get eaten by a snake
+## Ssssnickers
 
 ![GitHub Snake](https://raw.githubusercontent.com/sathvik-spartan/sathvik-spartan/output/github-contribution-grid-snake.svg)
 
