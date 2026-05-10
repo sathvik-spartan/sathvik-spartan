@@ -10,7 +10,7 @@
 - Check out my projects, hope you'll find them interesting.
 - I love to solve real world problems on a regular basis.
 - I design and develop websites as a hobby.
-- How to reach me : [Gmail](sathvikspartan@gmail.com) and [Linkedin](https://www.linkedin.com/in/b-sathvik-reddy/).
+- You can reach me through: <sathvikspartan@gmail.com> or [Linkedin](https://www.linkedin.com/in/b-sathvik-reddy/).
 
 ## Enriching the Community    
 
