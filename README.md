@@ -15,7 +15,7 @@
 ## Enriching the Community    
 
 > Note that some of my repositories — both created and forked — serve as **educational resources**.  
-> THUS, ACTING AS A HELPING HAND TOWARDS THis AMAZING OPEN-SOURCE COMMUNITY
+> THUS, ACTING AS A HELPING HAND TOWARDS THIS AMAZING OPEN-SOURCE COMMUNITY
 
 ## Beyond the Code
 
