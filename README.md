@@ -93,6 +93,11 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
+### Core Computer Science Concepts
+![Computer Networks](https://img.shields.io/badge/-Computer_Networks-0A66C2?logo=cisco&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/-Operating_Systems-0078D6?logo=linux&logoColor=white)
+![Database Management](https://img.shields.io/badge/-Database_Management-4479A1?logo=mysql&logoColor=white)
+
 
 ## Ssssnickers
 
