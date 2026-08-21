@@ -6,12 +6,18 @@
 
 ----
 
-- Hi!, I’m <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/b-sathvik-reddy?trk=profile-badge">Sathvik</a>
-- Open Source Contributor.
-- Check out my projects, hope you'll find them interesting.
-- I love to solve real world problems on a regular basis.
-- I design and develop websites as a hobby.
-- You can reach me through: <sathvikspartan@gmail.com> or [Linkedin](https://www.linkedin.com/in/b-sathvik-reddy/).
+# Hi, I'm Sathvik 
+
+I'm an **Open Source Contributor** who enjoys building things that solve real-world problems.
+
+I love exploring new ideas, contributing to open source, and turning those ideas into practical solutions. I also design and develop websites as a hobby, always experimenting with new technologies and creative ways to build for the web.
+
+Feel free to check out my projects — I hope you find something interesting!
+
+### Connect with me
+
+- Email: [sathvikspartan@gmail.com](mailto:sathvikspartan@gmail.com)
+- LinkedIn: [Sathvik Reddy](https://www.linkedin.com/in/b-sathvik-reddy/)
 
 ## Enriching the Community    
 
